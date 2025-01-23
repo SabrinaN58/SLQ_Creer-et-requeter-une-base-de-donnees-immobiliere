@@ -1,1 +1,1 @@
-# SLQ_creer-et-requeter-une-base-de-donnees-immobiliere
+# SQL_creer-et-requeter-une-base-de-donnees-immobiliere
