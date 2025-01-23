@@ -10,13 +10,13 @@ Mes objectifs lors de la réalisation de ce projet étaient : \
 
 ## **Tâches**
 Mes réalisations sont : \
--Modifier la base de données initiale en gardant uniquement les données pertinentes en respect du RGPD 
--Élaborer d'un dictionnaire de données pour une meilleure compréhension des données
+-Modifier la base de données initiale en gardant uniquement les données pertinentes en respect du RGPD \
+-Élaborer d'un dictionnaire de données pour une meilleure compréhension des données\
 -Réaliser des requêtes simples et complexes pour analyser le marché
 
 ## **Résultats**
 Ce que j'ai appris : \
--Creer une base de données en respect des normes réglementaires et des besoins clients
--Effectuer des requêtes simples et complexes pour répondre à une problématique métier
--Communiquer les résultats à l'aide d'un support de présentation
+-Creer une base de données en respect des normes réglementaires et des besoins clients\
+-Effectuer des requêtes simples et complexes pour répondre à une problématique métier\
+-Communiquer les résultats à l'aide d'un support de présentation\
 -Travailler en mode projet, faire preuve de rigueur et d'organisation.
