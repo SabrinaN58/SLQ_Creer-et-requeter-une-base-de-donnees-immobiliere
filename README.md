@@ -1,4 +1,5 @@
 # SQL_creer-et-requeter-une-base-de-donnees-immobiliere
+
 -- Contexte --
 Laplace Immo est un réseau national d'agences immobilière. Le directeur général est sensible depuis quelque temps à l'importance des données, et pense que l'agence doit se démarquer de la concurrence en créant un modèle pour mieux prévoir le prix de vente des biens immobiliers. Ce projet stratégique est appelé en interne DataImmo
 
