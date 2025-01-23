@@ -1,4 +1,4 @@
-# Créer et requêter une base de donnees immobilière
+# Créer et requêter une base de données immobilière
 
 ## **Contexte**
 ![Laplace Immo](https://github.com/user-attachments/assets/9f15af95-85dc-41ce-8b61-efaf8cbdbbe6)
