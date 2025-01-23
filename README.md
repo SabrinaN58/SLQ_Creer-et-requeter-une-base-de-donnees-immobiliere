@@ -1,11 +1,11 @@
 # Créer et requêter une base de donnees immobilière
 
-## **Contexte**
+## **Contexte**\
 Laplace Immo est un réseau national d'agences immobilière. Le directeur général est sensible depuis quelque temps à l'importance des données, et pense que l'agence doit se démarquer de la concurrence en créant un modèle pour mieux prévoir le prix de vente des biens immobiliers. Ce projet stratégique est appelé en interne DataImmo
 
-## **Objectif**
-Mes objectifs lors de la réalisation de ce projet étaient : 
--Modifier la base de données permettant de collecter les transactions immobilières et foncières en France
+## **Objectif**\
+Mes objectifs lors de la réalisation de ce projet étaient : \
+-Modifier la base de données permettant de collecter les transactions immobilières et foncières en France\
 -Utiliser cette nouvelle base pour analyser le marché et aider les différentes agences régionales à mieux accompagner leurs clients
 
 ## **Tâches**
