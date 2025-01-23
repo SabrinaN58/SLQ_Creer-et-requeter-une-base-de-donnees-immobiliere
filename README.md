@@ -1,6 +1,8 @@
 # Créer et requêter une base de donnees immobilière
 
 ## **Contexte**
+![Laplace Immo](https://github.com/user-attachments/assets/9f15af95-85dc-41ce-8b61-efaf8cbdbbe6)
+
 Laplace Immo est un réseau national d'agences immobilière. Le directeur général est sensible depuis quelque temps à l'importance des données, et pense que l'agence doit se démarquer de la concurrence en créant un modèle pour mieux prévoir le prix de vente des biens immobiliers. Ce projet stratégique est appelé en interne DataImmo
 
 ## **Objectifs**
