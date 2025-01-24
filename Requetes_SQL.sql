@@ -48,13 +48,13 @@ LIMIT 10;
 -- Prix moyen du mètre carré d'une maison en ile-de-france
 
 
-	SELECT round(AVG(v.valeur / b.surface_carrez),2) AS prix_m2_maison_idf
-	FROM commune c
-	JOIN bien b
-	ON c.id_codedep_codecommune = b.id_codedep_codecommune
-	JOIN vente v
-	ON b.id_bien = v.id_bien 
-	WHERE b.type_local = "Maison" AND c.nom_region = "Ile-De-France";
+SELECT round(AVG(v.valeur / b.surface_carrez),2) AS prix_m2_maison_idf
+FROM commune c
+JOIN bien b
+ON c.id_codedep_codecommune = b.id_codedep_codecommune
+JOIN vente v
+ON b.id_bien = v.id_bien 
+WHERE b.type_local = "Maison" AND c.nom_region = "Ile-De-France";
 
 
 -- Liste des 10 appartements les plus chers avec la région et le nombre de mètre carré
