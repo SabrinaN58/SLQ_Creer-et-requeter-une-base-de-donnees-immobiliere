@@ -19,6 +19,7 @@ Mes réalisations sont : \
 ## **Résultats**
 Ce que j'ai appris : \
 -Meilleure compréhension des prix des appartements et maisons selon les départements pour mieux conseiller les clients en fonction de leur budget et type de logement désiré
+
 -Creer une base de données en respect des normes réglementaires et des besoins clients\
 -Effectuer des requêtes simples et complexes pour répondre à une problématique métier\
 -Communiquer les résultats à l'aide d'un support de présentation\
