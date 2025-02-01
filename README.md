@@ -18,8 +18,8 @@ Mes réalisations sont :
 
 ## **Résultats**
 Ce que j'ai appris : 
-- Meilleure compréhension des prix (au m2) des appartements et maisons selon les départements et régions pour mieux conseiller les clients en fonction de leur budget et type de logement désiré
-- Creer une base de données en respect des normes réglementaires et des besoins clients
+- Créer un diagrame UML
 - Effectuer des requêtes simples et complexes pour répondre au besoin des agences
+- Meilleure compréhension des prix (au m2) des appartements et maisons selon les départements et régions pour mieux conseiller les clients en fonction de leur budget et type de logement désiré
 - Communiquer les résultats à l'aide d'un support de présentation
 - Travailler en mode projet, faire preuve de rigueur et d'organisation
