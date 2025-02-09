@@ -3,7 +3,7 @@
 ## **Contexte**
 ![Laplace Immo](https://github.com/user-attachments/assets/9f15af95-85dc-41ce-8b61-efaf8cbdbbe6)
 
-Laplace Immo est un réseau national d'agences immobilière. Le directeur général est sensible depuis quelque temps à l'importance des données, et pense que l'agence doit se démarquer de la concurrence en créant un modèle pour mieux prévoir le prix de vente des biens immobiliers. Ce projet stratégique est appelé en interne DataImmo
+Laplace Immo est un réseau national d'agences immobilières. Le directeur général est sensible depuis quelque temps à l'importance des données, et pense que l'agence doit se démarquer de la concurrence en créant un modèle pour mieux prévoir le prix de vente des biens immobiliers. Ce projet stratégique est appelé en interne DataImmo
 
 ## **Objectifs**
 Mes objectifs lors de la réalisation de ce projet étaient : 
@@ -13,7 +13,7 @@ Mes objectifs lors de la réalisation de ce projet étaient :
 ## **Tâches**
 Mes réalisations sont : 
 - Modifier la base de données initiale en gardant uniquement les données pertinentes en respect du RGPD
-- Élaborer d'un dictionnaire de données pour une meilleure compréhension des données
+- Élaborer un dictionnaire de données pour une meilleure compréhension des données
 - Réaliser des requêtes simples et complexes pour analyser le marché
 
 ## **Résultats**
